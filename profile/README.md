@@ -5,7 +5,7 @@
 
 ## What is it?
 <a id=TheoreticalPart></a>
-### Therethical Part
+### Theoretical Part
 The idea of the bcdlab - Project, is to have a Service for Developer’s in need of a hosting for simple programs, 24/7. The Origin of this Idea has come from my [(Nerexbcd)](https://github.com/nerexbcd) story, when I was young, I started having interest in Web Development, and with that came the desire to have a Public Webpage to show my friends and family at the time, but that desire took a bit to be fulfill, mainly because I didn't have good options to concertize it. To avoid this happening to other developers that are starting their journey in the world of code, the bcdlab - Project was created, to be able to help new developers have their chance of showing the internet their work, their story, their footprint on this world. The best part is not being only for Web Pages, but also APIs, bots for Discord, Twitch, Telegram; and more and more programs that don't use a lot of hosting resources. But for this Project to work, it also needs some collaboration between the IT community, that collaboration being helping with the node hosting part [(For more info about Nodes check the Technical Part)](#TechnicalPart), with that, the Project will succeed and help the IT community grow and evolve, build knowledge and skills, but mainly help people to have their internet presence.
 
 <a id=TechnicalPart></a>
